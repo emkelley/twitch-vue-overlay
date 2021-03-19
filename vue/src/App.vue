@@ -1,7 +1,5 @@
 <template>
-  <div id="app">
-    <h1>{{ state }}</h1>
-  </div>
+  <div id="app"></div>
 </template>
 
 <script>
